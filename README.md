@@ -15,6 +15,7 @@ The team has a public [package](https://github.com/freuk/datamovepkgs) set.
 
 # Compute Canada
 Complex setup: CVMFS, Nix, Lmod, and EasyBuild. [slides](https://fosdem.org/2018/schedule/event/computecanada/).
+[nixpkgs](https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09) fork, with a 'computecanada' branch.
 
 # Misc
 [GuixHPC](https://guix-hpc.bordeaux.inria.fr/)
