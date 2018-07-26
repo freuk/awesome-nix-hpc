@@ -3,7 +3,7 @@ Nix for High-Performance Computing spotted in the wild.
 
 # Gricad
 [Blog](https://gricad.github.io/calcul/)  
-package [channel](https://github.com/Gricad/nix-ciment-channel]  
+package [channel](https://github.com/Gricad/nix-ciment-channel)  
 [paper](https://dl.acm.org/citation.cfm?id=3152556)
 
 # BlueBrain Project
