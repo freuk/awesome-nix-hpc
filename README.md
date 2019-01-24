@@ -20,3 +20,6 @@ The team has a public [package](https://github.com/freuk/datamovepkgs) set.
 # Misc
 There is a Guix-based tool called [GuixHPC](https://guix-hpc.bordeaux.inria.fr/).
 This crowd is somehow active since 2011 or earlier. There is a set of [hydra](https://gforge.inria.fr/projects/hydra-recipes) recipes for HPC tools.
+
+# Quantum chemistry software packages
+https://github.com/markuskowa/NixOS-QChem
