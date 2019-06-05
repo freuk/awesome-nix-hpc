@@ -13,6 +13,12 @@ package [channel](https://github.com/Gricad/nix-ciment-channel)
 # Compute Canada
 Complex setup: CVMFS, Nix, Lmod, and EasyBuild. [slides](https://fosdem.org/2018/schedule/event/computecanada/).  
 [nixpkgs](https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09) fork, with a 'computecanada' branch.
+A package  overlay is available at https://git.computecanada.ca/nix/ccpkgs .
+
+Other links include:  
+https://docs.computecanada.ca/wiki/Using_Nix  
+https://git.computecanada.ca/nix/training  
+https://hydra.sharcnet.ca/
 
 # Datamove (Inria team)
 The team has a public [package](https://github.com/freuk/datamovepkgs) set.
