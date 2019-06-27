@@ -29,3 +29,6 @@ This crowd is somehow active since 2011 or earlier. There is a set of [hydra](ht
 
 # Quantum chemistry software packages
 https://github.com/markuskowa/NixOS-QChem
+
+# Reproducible HPC experiments tutorial
+https://mpoquet.gitlabpages.inria.fr/nix-tutorial/
