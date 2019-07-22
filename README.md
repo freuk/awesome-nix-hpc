@@ -1,5 +1,4 @@
 # awesome-nix-hpc
-Nix for High-Performance Computing spotted in the wild.
 
 ### Package sets
 - gricad: https://github.com/Gricad/nix-ciment-channel
