@@ -1,6 +1,14 @@
 # awesome-nix-hpc
 Nix for High-Performance Computing spotted in the wild.
 
+# Package sets
+- gricad: https://github.com/Gricad/nix-ciment-channel
+- blue brain project: https://github.com/BlueBrain/bbp-nixpkgs)  
+- compute canada: https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09 
+- compute canada: https://git.computecanada.ca/nix/ccpkgs
+- datamove: https://github.com/oar-team/kapack
+- quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
+
 # Tutorials
 - reproducible experiments: https://mpoquet.gitlabpages.inria.fr/nix-tutorial/
 
@@ -13,14 +21,6 @@ Nix for High-Performance Computing spotted in the wild.
 - https://dl.acm.org/citation.cfm?id=3152556
 - https://dl.acm.org/citation.cfm?id=2830172
 - https://fosdem.org/2018/schedule/event/computecanada/
-
-# Package sets
-- gricad: https://github.com/Gricad/nix-ciment-channel
-- blue brain project: https://github.com/BlueBrain/bbp-nixpkgs)  
-- compute canada: https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09 
-- compute canada: https://git.computecanada.ca/nix/ccpkgs
-- datamove: https://github.com/oar-team/kapack
-- quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
 
 # Other
 - the guix-hpc tool: https://guix-hpc.bordeaux.inria.fr/ 
