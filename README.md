@@ -9,7 +9,7 @@
 - quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
 
 ### Tutorials
-- reproducible experiments: https://mpoquet.gitlabpages.inria.fr/nix-tutorial/
+- reproducible experiments: https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/
 
 ### Blog posts/Docs
 - https://gricad.github.io/calcul/
