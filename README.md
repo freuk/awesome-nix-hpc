@@ -19,6 +19,7 @@
 ### Reports/Slides
 - https://dl.acm.org/citation.cfm?id=3152556
 - https://dl.acm.org/citation.cfm?id=2830172
+- https://arxiv.org/pdf/2006.14784.pdf
 - https://fosdem.org/2018/schedule/event/computecanada/
 
 ### Other
