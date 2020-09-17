@@ -1,6 +1,7 @@
 # awesome-nix-hpc
 
 ### Package sets
+- flatiron institute: https://github.com/flatironinstitute/nix-modules
 - gricad: https://github.com/Gricad/nix-ciment-channel
 - blue brain project: https://github.com/BlueBrain/bbp-nixpkgs
 - compute canada: https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09
