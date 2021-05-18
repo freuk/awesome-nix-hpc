@@ -6,7 +6,7 @@
 - blue brain project: https://github.com/BlueBrain/bbp-nixpkgs
 - compute canada: https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09
 - compute canada: https://git.computecanada.ca/nix/ccpkgs
-- datamove: https://github.com/oar-team/kapack
+- datamove: https://github.com/oar-team/nur-kapack
 - quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
 
 ### Tutorials
