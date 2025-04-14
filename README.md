@@ -7,6 +7,7 @@
 - compute canada: https://github.com/ComputeCanada/nixpkgs/tree/computecanada-16.09
 - compute canada: https://git.computecanada.ca/nix/ccpkgs
 - datamove: https://github.com/oar-team/nur-kapack
+- fem packages: https://github.com/qbisi/nur-fem
 - quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
 - BSC: https://pm.bsc.es/gitlab/rarias/bscpkgs
 
